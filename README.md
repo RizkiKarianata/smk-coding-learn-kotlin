@@ -6,3 +6,8 @@ Challenge 1 merupakan tugas pertama dari pelatihan SMK Coding Online berbasis Mo
 * Install Android Studio
 * Configure Android Studio
 * Open Android Studio
+
+# Documentation & Resources
+* [Android Studio Documentation](https://developer.android.com/docs)
+* [Kotlin Reference](https://kotlinlang.org/docs/reference/)
+* [Kotlin Forum](https://kotlinlang.org/community/)
