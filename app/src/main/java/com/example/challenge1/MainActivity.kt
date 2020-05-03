@@ -11,5 +11,10 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        btnSave.setOnClickListener { goToProfilActivity() }
+    }
+    private fun goToProfilActivity() {
+        val intent = Intent(this, ProfilActivity::class.java)
+        startActivity(intent)
     }
 }
