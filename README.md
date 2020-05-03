@@ -1,2 +1,2 @@
-# SMK-Coding-Challenge-1
-Ini merupakan tugas challenge pertama dari pelatihan SMK Coding Online.
+# Challenge 1
+Challenge 1 merupakan tugas pertama dari pelatihan SMK Coding Online berbasis Mobile yang menggunakan Android Kotlin.
