@@ -11,3 +11,8 @@ Challenge 1 merupakan tugas pertama dari pelatihan SMK Coding Online berbasis Mo
 * [Android Studio Documentation](https://developer.android.com/docs)
 * [Kotlin Reference](https://kotlinlang.org/docs/reference/)
 * [Kotlin Forum](https://kotlinlang.org/community/)
+
+# License
+MIT License 2020, Rizki Karianata.
+
+The data may not be used for commercial purposes.
