@@ -23,7 +23,7 @@
             android:id="@+id/iv_foto"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:src="@drawable/ic_person"
+            android:src="@drawable/ic_person2"
             android:layout_below="@id/tv_biodata"
             android:layout_centerHorizontal="true"/>
         <LinearLayout
@@ -129,7 +129,7 @@
 
             <Button
                 android:id="@+id/btnEditName"
-                android:layout_width="114dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="16dp"
                 android:background="#4682B4"
@@ -138,7 +138,7 @@
 
             <Button
                 android:id="@+id/btnCall"
-                android:layout_width="114dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="16dp"
                 android:background="#4682B4"
@@ -147,7 +147,7 @@
 
             <Button
                 android:id="@+id/btnCall"
-                android:layout_width="114dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="16dp"
                 android:background="#4682B4"
