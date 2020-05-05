@@ -126,18 +126,33 @@
                     android:textSize="18sp"
                     android:text="Malang, Indonesia"/>
             </LinearLayout>
+
             <Button
                 android:id="@+id/btnEditName"
-                android:layout_width="match_parent"
+                android:layout_width="114dp"
                 android:layout_height="wrap_content"
                 android:layout_margin="16dp"
-                android:text="EDIT NAMA"/>
+                android:background="#4682B4"
+                android:text="EDIT NAMA"
+                android:textColor="#FFFFFF" />
+
             <Button
                 android:id="@+id/btnCall"
-                android:layout_width="match_parent"
+                android:layout_width="114dp"
                 android:layout_height="wrap_content"
                 android:layout_margin="16dp"
-                android:text="Telepon"/>
+                android:background="#4682B4"
+                android:text="TELEPON"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/btnCall"
+                android:layout_width="114dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:background="#4682B4"
+                android:textColor="#FFFFFF"
+                android:text="ABOUT"/>
         </LinearLayout>
     </RelativeLayout>
 </ScrollView>
