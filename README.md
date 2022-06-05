@@ -52,24 +52,19 @@
 
 #### Using the built-in ready to use from the release (Recommended)
 
-Download the latest project release from the [Release Page](https://github.com/RizkiKarianata/smk-coding-learn-kotlin "Release Page"). Open the Simple Framework7 App project folder using a terminal and type `npm run dev`. To explore the source code you can use a text editor such as Visual Studio Code.
+Download the latest project release from the [Release Page](https://github.com/RizkiKarianata/smk-coding-learn-kotlin "Release Page"). Open the SMKCoding Learn Kotlin project folder using android studio to explore the whole code.
 
 #### Build manually
 
-* Before starting, make sure you have Node.js installed first
-* If you have installed Node.js. Run the command git clone which is `https://github.com/RizkiKarianata/smk-coding-learn-kotlin`
-* Install the dependencies using the node package manager of your choice. For example run `npm install` in terminal
-* To run the application you can run the command `npm run dev`. And the application will automatically open using port 8080 on your default browser
-
-#### Build to APK
-
-* You can run commands like in the `NPM Scripts` below by adding `npm run`. Example `npm run build-dev-cordova-android` on terminal
+* Before starting, make sure you have installed the Java SE Development Kit and Android Studio
+* If you have installed both. Run the git clone command which is `https://github.com/RizkiKarianata/smk-coding-learn-kotlin`
+* Configure android studio first
+* To run the application you can use the emulator or try it directly on your phone
 
 ## 📋 Documentation & Resources
 
-* [Framework7](https://framework7.io/)
-* [Apache Cordova](https://cordova.apache.org/)
-* [Node.js](https://nodejs.org/en/)
+* [Android Studio](https://developer.android.com/docs)
+* [Kotlin](https://kotlinlang.org/)
 * Did you build a framework or other features? Open up Pull Requests and put yours here! 😃
 
 ## 📆 Release Date
@@ -96,24 +91,16 @@ Download the latest project release from the [Release Page](https://github.com/R
 * Push to the branch (`git push origin my-new-feature`)
 * Create a new Pull Request
 
-#### Notes To Contribute
-
-Make sure to not commit generated files from your dist folder. All changes need to be made in the source files located in the `src` folder.
-
-* Change the `scss` files to adapt styles
-* Change the nunjucks based `html` files or the content defining `json` files to adapt layout and content
-* Change the `js` files to adapt the application code
-
 Always run a build and test the results before committing.
 
 ## 📝 License
 
 * Copyright © 2020 Rizki Karianata
-* **Simple Framework7 App is an open source project licensed under the MIT license**
+* **SMK Coding Learn Kotlin is an open source project licensed under the MIT license**
 
 ## ☕️ Suppport & Donation
 
-Love Simple Framework7 App? Support this project by donating or sharing with others in need.
+Love SMK Coding Learn Kotlin? Support this project by donating or sharing with others in need.
 
 <a href="https://www.buymeacoffee.com/rizkikarianata"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/> </a>
 
