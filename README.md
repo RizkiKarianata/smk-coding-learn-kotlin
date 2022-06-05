@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the SMK Coding Learn Kotlin! 👋 </h1>
+<h1 align="center">Welcome to SMK Coding Learn Kotlin! 👋 </h1>
 
 <p align="center">SMK Coding Learn Kotlin is the first challenge of the SMK Coding Online training. This first challenge training focuses on Intent, Layout, and others. Built using Kotlin. 💖 </p>
 
