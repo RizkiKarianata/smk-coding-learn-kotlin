@@ -18,7 +18,13 @@
 * `Android SDK` - to simplify the process of building applications
 * `Gradle` - function to perform application building automatically
 * `Java Development Kit` - used for support in developing or building an application
-	* a
+* `System Requirements`
+
+#### Build manually
+
+	* `Windows OS`
+	* `Linux OS`
+	* `Windows OS`
 
 ## 🎯 How To Use
 
