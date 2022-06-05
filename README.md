@@ -21,16 +21,32 @@
 * `System Requirements`
 	* `Windows OS`
 	```
-	+ a
+	1.	Microsoft® Windows® 7/8/10 (64-bit)
+	2.	4 GB RAM minimum, 8 GB RAM recommended
+	3.	2 GB of available disk space minimum
+	4.	4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)
+	5.	1280 x 800 minimum screen resolution
 	```
 	* `Linux OS/GNOME or KDE Desktop`
 	```
-
+	1.	Tested on gLinux based on Debian
+	2.	64-bit distribution capable of running 32-bit applications
+	3.	GNU C Library (glibc) 2.19 or later
+	4.	4 GB RAM minimum, 8 GB RAM recommended
+	5.	2 GB of available disk space minimum,
+	6.	4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)
+	7.	1280 x 800 minimum screen resolution
 	```
 	* `Mac OS`
 	```
-
+	1.	Mac® OS X® 10.10 (Yosemite) or higher, up to 10.14 (macOS Mojave)
+	2.	4 GB RAM minimum, 8 GB RAM recommended
+	3.	2 GB of available disk space minimum
+	4.	4 GB Recommended (500 MB for IDE + 1.5 GB for Android SDK and emulator system image)
+	5.	1280 x 800 minimum screen resolution
 	```
+
+	Source of [Coding Ninjas](https://www.codingninjas.com/blog/2020/12/10/how-to-build-your-first-android-app-with-kotlin/)
 
 ## 🎯 How To Use
 
