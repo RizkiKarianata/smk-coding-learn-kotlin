@@ -19,10 +19,7 @@
 * `Gradle` - function to perform application building automatically
 * `Java Development Kit` - used for support in developing or building an application
 * `System Requirements`
-
-#### Build manually
-
-	* `Windows OS`
+	**Windows OS**
 	* `Linux OS`
 	* `Windows OS`
 
