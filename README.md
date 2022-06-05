@@ -52,7 +52,7 @@
 
 #### Using the built-in ready to use from the release (Recommended)
 
-Download the latest project release from the [Release Page](https://github.com/RizkiKarianata/smk-coding-learn-kotlin "Release Page"). Open the SMKCoding Learn Kotlin project folder using android studio to explore the whole code.
+Download the latest project release from the [Release Page](https://github.com/RizkiKarianata/smk-coding-learn-kotlin "Release Page"). Open the SMK Coding Learn Kotlin project folder using android studio to explore the whole code.
 
 #### Build manually
 
